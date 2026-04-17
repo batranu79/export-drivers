@@ -4,7 +4,7 @@ This script extracts all third-party drivers that are in use from the current on
 
 # Usage
 
-PS> .\Export-Drivers.ps1 -TargetDirectory "C:\temp\drivers"
+PS> .\Export-Drivers.ps1 -TargetDirectory "C:\temp\drivers"  
 Exports the third-party drivers that are in used to the target folder "C:\temp\drivers".
 
 # Use cases
